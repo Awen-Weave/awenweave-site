@@ -3,10 +3,10 @@ site_url: https://awenweave.com
 site_description: >
   Awen Weave — a pattern for weaving together knowledge, relationships,
   place, data and human insight into coherent living systems.
-site_author: Huw-Lab
+site_author: Awen Weave
 
-repo_url: https://github.com/Huw-Lab/awenweave-site
-repo_name: Huw-Lab/awenweave-site
+repo_url: https://github.com/Awen-Weave/awenweave-site
+repo_name: Awen-Weave/awenweave-site
 edit_uri: edit/main/docs/
 
 theme:
@@ -112,7 +112,7 @@ extra_css:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/Huw-Lab
+      link: https://github.com/Awen-Weave
 
 copyright: >
   Copyright &copy; 2026 Awen Weave Limited (in formation).

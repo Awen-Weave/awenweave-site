@@ -53,4 +53,4 @@ the `docs/CNAME` file.
 
 Content: **CC-BY-SA 4.0** (see `LICENSE`).
 Code samples within content: **AGPLv3** unless otherwise marked.
-"Awen Weave" wordmark: trademark pending (Huw-Lab).
+"Awen Weave" wordmark: trademark pending (Awen Weave Limited).
