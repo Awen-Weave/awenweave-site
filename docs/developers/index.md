@@ -22,7 +22,7 @@ storage, and the OGL cache layer.
 
 ## Repository
 
-The source code lives at [github.com/Huw-Lab/awen-weave](https://github.com/Huw-Lab/awen-weave).
+The source code lives at [github.com/Awen-Weave/awen-weave](https://github.com/Awen-Weave/awen-weave).
 The repository is the authoritative source; PyPI carries the published
 releases.
 
@@ -118,7 +118,7 @@ External code contributions will require a Contributor License Agreement
 interim:
 
 - **Issues** for bug reports, feature requests, and documentation
-  suggestions are welcome at the [repository](https://github.com/Huw-Lab/awen-weave/issues).
+  suggestions are welcome at the [repository](https://github.com/Awen-Weave/awen-weave/issues).
 - **Pull requests** will be acknowledged but held pending the CLA
   process.
 - **Internal contributions** (Awen Weave Limited maintainers) follow
