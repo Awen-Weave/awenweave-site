@@ -20,6 +20,12 @@ performance certificates, ownership history, planning history. Held as
 *claims with provenance* rather than as opaque values; every fact carries
 the source it came from and the date it was made.
 
+**EPC history** — how each home's energy rating has changed over time,
+from its energy performance certificates, dated to the year only and
+with no address. To ask for a property's EPC history to be withheld,
+contact the curator; no reason is needed. Write to
+[Arloesi Dolgellau](https://arloesidolgellau.com/).
+
 **Histories** — the stories told about each building, drawn from local
 archive, oral tradition, photography collections, and contemporary
 curatorial work. Histories are themselves recorded entities with their
