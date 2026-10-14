@@ -52,7 +52,7 @@ Open-source · Welsh-rooted · place-hosted
 
 In a converted workshop in Dolgellau, a Raspberry Pi holds the record of every building in the town.
 
-The [Dolgellau Town Dataset](instances/dolgellau-town-dataset.md) is Awen Weave's first public instance. A place-hosted, community-operated record of the town — its buildings, histories, and the people and decisions woven around them. Operated by [Arloesi Dolgellau Cwmni Buddiant Cymunedol](https://arloesidolgellau.com/), the Community Benefit Company (CBC) that holds the dataset for the community.
+The [Dolgellau Town Dataset](instances/dolgellau-town-dataset.md) is Awen Weave's first public instance. A place-hosted, community-operated record of the town — its buildings, histories, and the people and decisions woven around them. Operated by [Arloesi Dolgellau Cwmni Buddiant Cymunedol](https://arloesidolgellau.com/), the Community Interest Company that holds the dataset for the community.
 
 The data lives in Dolgellau. Not in a cloud. Not in Cardiff. In Dolgellau, 200 metres from the buildings it describes.
 
