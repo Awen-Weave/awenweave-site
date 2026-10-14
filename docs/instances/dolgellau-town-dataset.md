@@ -75,14 +75,14 @@ describes.
 ## Who owns the dataset
 
 The content is owned by the operating community — Arloesi Dolgellau
-CIC. The framework that the dataset runs on (Awen Weave) is licensed by
+CBC. The framework that the dataset runs on (Awen Weave) is licensed by
 [Awen Weave Limited](../commercial/index.md).
 
 The boundary is structural:
 
 | Layer | Owner | License |
 |-------|-------|---------|
-| Content (the buildings, histories, sources) | Arloesi Dolgellau CIC | Open Government Licence (OGL) |
+| Content (the buildings, histories, sources) | Arloesi Dolgellau CBC | Open Government Licence (OGL) |
 | Framework (the code that holds the content) | Awen Weave Limited | AGPLv3 + commercial dual |
 
 The community owns what is woven. The framework owns the loom.
