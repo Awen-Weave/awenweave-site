@@ -62,7 +62,7 @@ UPRN/TOID verification.
 
 The dataset is physically hosted on a Raspberry Pi at
 [Arloesi Dolgellau](https://arloesidolgellau.com/) — the Community
-Benefit Company (CBC) that operates the instance — in the town of Dolgellau
+Interest Company that operates the instance — in the town of Dolgellau
 itself. The relationship between the data and the place it describes is
 not abstract. Trust is grounded in proximity.
 
