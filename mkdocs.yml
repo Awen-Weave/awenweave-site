@@ -82,6 +82,10 @@ nav:
   - Instances:
       - Overview: instances/index.md
       - Dolgellau Town Dataset: instances/dolgellau-town-dataset.md
+      - Llefelys engagement packs:
+          - Dolgellau: instances/llefelys/dolgellau.md
+          - Tywyn: instances/llefelys/tywyn.md
+          - Ffestiniog: instances/llefelys/ffestiniog.md
   - For Curators:
       - Overview: curators/index.md
   - For Developers:
