@@ -1,0 +1,27 @@
+name: check
+
+# Card c2441 (Huw's ruling of 13/11/2026 on the Mac 5 checker's c2436 question): a build-only check on every pull
+# request, so a PR is merged on a green that ran at its own head. It runs `mkdocs build --strict` and nothing else.
+# It is a SEPARATE workflow from deploy.yml, which is unchanged and still runs on push to main only: this file has
+# no Pages permission, no upload-pages-artifact and no deploy job, so nothing here can publish the site.
+on:
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: check-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - run: mkdocs build --strict
